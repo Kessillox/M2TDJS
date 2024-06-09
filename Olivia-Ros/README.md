@@ -1,2 +1,0 @@
-## OLIVIA ROS ##
-Felipe Kessi
