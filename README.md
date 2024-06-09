@@ -1,5 +1,5 @@
 # Repositorio M2 Talento Digital Javascript
-- [Repositorio Principal]()
+- [Repositorio Principal](https://github.com/Kessillox/M2TDJS)
 
 ### Ramas con proyectos del módulo
 - [Rama Currículum]()
