@@ -2,15 +2,15 @@
 - [Repositorio Principal](https://github.com/Kessillox/M2TDJS)
 
 ### Ramas con proyectos del módulo
-- [Rama Currículum]()
-- [Rama Meet And Coffe]()
-- [Rama Iguana Page]()
-- [Rama Suricata]()
-- [Rama Olivia Ross]()
-- [Rama Cuppon]()
-- [Rama Notas Finales]()
-- [Rama Ricomida]()
-- [Rama Viajes Chile]()
+- [Rama Currículum](https://github.com/Kessillox/M2TDJS/tree/cvfelipekessi)
+- [Rama Meet And Coffe](https://github.com/Kessillox/M2TDJS/tree/meetandcoffe)
+- [Rama Iguana Page](https://github.com/Kessillox/M2TDJS/tree/iguanapage)
+- [Rama Suricata](https://github.com/Kessillox/M2TDJS/tree/suricata)
+- [Rama Olivia Ross](https://github.com/Kessillox/M2TDJS/tree/oliviaross)
+- [Rama Cuppon](https://github.com/Kessillox/M2TDJS/tree/cuppon)
+- [Rama Notas Finales](https://github.com/Kessillox/M2TDJS/tree/notas)
+- [Rama Ricomida](https://github.com/Kessillox/M2TDJS/tree/ricomida)
+- [Rama Viajes Chile](https://github.com/Kessillox/M2TDJS/tree/viajeschile)
 
 
 ### Comandos Git Branch Apoyo
